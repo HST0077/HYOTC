@@ -1,6 +1,6 @@
 # 📚 Jupyter Notebooks 실행하기
 
-이 저장소에 포함된 Jupyter Notebook을 Google Colab 또는 Binder에서 실행할 수 있습니다.
+이 저장소에 포함된 Jupyter Notebook을 Google Colab 에서 실행할 수 있습니다.
 
 | Notebook 이름   | Google Colab | 
 |---------------|-------------|
