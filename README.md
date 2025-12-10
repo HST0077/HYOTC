@@ -8,3 +8,4 @@
 | Pandas 학습  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/0.Python_pandas.ipynb) | 
 | 변동성과 상관계수 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/volcorr.ipynb) | 
 | 다변량정규분포 난수생성 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/다변량정규분포.ipynb) | 
+| 서로 다른 분포를 갖는 난수생성 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/copula.ipynb) | 
