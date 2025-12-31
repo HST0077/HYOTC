@@ -11,3 +11,4 @@
 | 서로 다른 분포를 갖는 난수생성 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/copula.ipynb) | 
 | Stochastic Calculus | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/stochastic_calculus.ipynb) | 
 | BS formula and MC basics | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/mc_basics.ipynb) | 
+| 시장위험의 측정 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/MarketRisk.ipynb) | 
