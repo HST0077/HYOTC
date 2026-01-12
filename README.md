@@ -14,3 +14,4 @@
 | 시장위험의 측정 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/MarketRisk.ipynb) | 
 | StepDown 1 stock MC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/StepDown_1stock_MC.ipynb) | 
 | 내재변동성의 개념과 델타 헤징 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/hedgingderivatives.ipynb) | 
+| 판별분석과 Altman's Z score | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/LDA%26Zscore.ipynb) | 
