@@ -15,5 +15,6 @@
 | 내재변동성의 개념과 델타 헤징 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/hedgingderivatives.ipynb) | 
 | Intro to Payoff Trading | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/payofftrading.ipynb) | 
 | StepDown 1 stock MC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/StepDown_1stock_MC.ipynb) | 
+| StepDown 2 stock MC | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/StepDown_2stock.ipynb) | 
 | 판별분석과 Altman's Z score | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/LDA%26Zscore.ipynb) | 
 | Hazard rate and CDS spread| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/CDS%26HazardRate.ipynb) | 
