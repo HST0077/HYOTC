@@ -18,3 +18,4 @@
 | 미국형 옵션의 가격 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/American_Options.ipynb) | 
 | 채권의 평가와 민감도 구하기 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/Interest_Rate_and_bonds.ipynb) | 
 | Intro to FDM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/FDM.ipynb) | 
+| HY OTC Frontier (Equity) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/HY_OTC_Frontier.ipynb) | 
