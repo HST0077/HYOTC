@@ -21,3 +21,4 @@
 | HY OTC Frontier (Equity) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/HY_OTC_Frontier.ipynb) | 
 | Girsanov and Quanto | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/RN_derivatives_and_Girsanov.ipynb) | 
 | FX hedging for Quanto | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//Quanto_FX_hedging.ipynb) | 
+| Adjoint Algorithmic Differentiation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//Adjoint_Algorithmic_Differentiation.ipynb) | 
