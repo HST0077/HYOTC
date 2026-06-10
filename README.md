@@ -23,5 +23,5 @@
 | FX hedging for Quanto | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//Quanto_FX_hedging.ipynb) | 
 | Adjoint Algorithmic Differentiation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//Adjoint_Algorithmic_Differentiation.ipynb) | 
 | Intro to Interest Rate Modelling  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//IRmodelling_intro.ipynb) | 
-| IRS and Swaption  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main//IRS와_Swaption.ipynb) | 
+| IRS and Swaption  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HST0077/HYOTC/blob/main/IRS와_Swaption.ipynb) | 
 
